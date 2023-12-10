@@ -1,0 +1,13 @@
+@charset "utf-8";
+body{background-color: antiquewhite;}
+li{
+    margin-bottom: 20px;
+}
+h1{
+    border: 20px;
+    margin: 100%;
+}
+li{
+    width: 200px;
+    margin: auto;
+}
