@@ -1,0 +1,29 @@
+@charset "utf-8";
+body{background-color:black;
+    color: white;
+}
+div{
+    width: 100px;
+    display: block;
+    text-align: center;
+}
+h1{
+    border: 3px solid;
+    border-radius:  20px; ;
+    text-align: center;  
+}
+a{
+    background-color: #f88;
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration:none;
+}
+ul{
+    width: 200px;
+    margin: auto;
+}
+p,ul{
+    text-align: center;
+    margin: auto;
+}
